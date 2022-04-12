@@ -10,13 +10,13 @@ This template was developed to help me in my learning when I started studying Da
 - How to create tables (in Hive database), see the 04-Table_Reference notebook.
 
 ## Notebooks
-1. [Config-DataFrame]($./Includes/Config-DataFrame)
-1. [Config-Directories]($./Includes/Config-Directories)
-1. [Config-Database]($./Includes/Config-Database)
-1. [common]($./Includes/common)
-1. [Reset-Environment]($./Includes/Reset-Environment)
-1. [01-Training_Python]($./Training/01-Training_Python)
-1. [02-Table-Reference]($./02-Table-Reference)
+1. [Config-DataFrame](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Includes/Config-DataFrame.ipynb)
+1. [Config-Directories](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Includes/Config-Directories.ipynb)
+1. [Config-Database](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Includes/Config-Database.ipynb)
+1. [common](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Includes/common.ipynb)
+1. [Reset-Environment](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Includes/Reset-Environment.ipynb)
+1. [01-Training_Python](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/Training/01-Training_Python.ipynb)
+1. [02-Table-Reference](https://github.com/ac-gomes/data-engineering-with-databricks/blob/master/data-engineering/02-Table-Reference.ipynb)
 
 
 ## How to use it?
